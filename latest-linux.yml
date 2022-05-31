@@ -1,0 +1,9 @@
+version: 0.1.8
+files:
+  - url: NIM-Pools-Hub-Miner-linux-x86_64-0.1.8.AppImage
+    sha512: 4I0Qi6fw3nlDqXg4EE0c33vJTJKa5CAdVBaS18CdZ6T0jhepzFALcSZkZGBwiCC/r5RRAGdkvkPG22UqbH8B5Q==
+    size: 55748370
+    blockMapSize: 59174
+path: NIM-Pools-Hub-Miner-linux-x86_64-0.1.8.AppImage
+sha512: 4I0Qi6fw3nlDqXg4EE0c33vJTJKa5CAdVBaS18CdZ6T0jhepzFALcSZkZGBwiCC/r5RRAGdkvkPG22UqbH8B5Q==
+releaseDate: '2021-11-19T10:36:46.280Z'
